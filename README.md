@@ -1,6 +1,7 @@
 This is the website of the research project *'The geographies of ‘clean energy’ jobs in Great Britain remains uneven'* co-authored by Genghao Zhang, Dr. Ed Atkins, and Prof. Emmanouil Tranos from the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/) at the [University of Bristol](https://www.bristol.ac.uk/).
 This work has been funded by an EPSRC Impact Accelerator Award (2026).
 
+[A brief policy report](https://www.bristol.ac.uk/policybristol/policy-briefings/clean-energy-environment/).
 [An interactive map of clean energy job advertisements](https://hao-z-hang.github.io/green-jobs-map/Green_Jobs_Interactive_Map.html).
 
 Contact the researchers:
